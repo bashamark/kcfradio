@@ -61,23 +61,19 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
       "social_url": "https://kcfch.org/"
     },
     {
-      "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/kcfchinfo"
+      "social_name": "YouTube Channel",
+      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+      "social_url": "https://www.youtube.com/@kcfchinfo/streams"
     },
     {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://www.facebook.com/kcfchinfo"
-    },
-    {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.facebook.com/kcfchinfo"
+      "social_name": "Join Church Whatsapp Group",
+      "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
+      "social_url": "https://chat.whatsapp.com/KlDNGFZ2lJmC8MFWaVUTLM"
     }
+   
   ]
 }
